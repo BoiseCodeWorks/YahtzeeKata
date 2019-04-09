@@ -26,7 +26,7 @@ The following categories exists:
 
 - **Yahtzee:** If all dice are the have the same number, the player scores 50 points, otherwise 0.
 
-Chance: The player gets the sum of all dice, no matter what they read.
+- **Chance:** The player gets the sum of all dice, no matter what they read.
 The practitioner can feel free to create new categories as well.
 
 

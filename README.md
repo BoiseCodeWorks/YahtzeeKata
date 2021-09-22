@@ -31,3 +31,16 @@ The practitioner can feel free to create new categories as well.
 
 
 For this in class project we will focus on Test Driven Development known by Red, Green, Refactor. In TDD we want to break down and focus efforts in development into three different phases or categories. Red is focusing primarily on what to develop. This is where you write the minimal amount of code to begin implementation. Green is focusing on refactoring the existing code to focus on how to pass the test(Turns Green). Red, revisit the test to see if the data set or requirements need to be improved to account for more cases. Rewrite the test to drive new implementation in the code base, or write a new test to cover a new use case and repeat the process.
+
+## Legal Overview
+
+The content under the CodeWorks®, LLC Organization and all of the individual repos are soley intended for use by CodeWorks Instruction to deliver Educational content to CodeWorks Students.
+
+---
+
+## Copyright
+
+© CodeWorks® LLC, 2021. Unauthorized use and/or duplication of this material without express and written permission from CodeWorks, LLC is strictly prohibited.
+
+
+<img src="https://bcw.blob.core.windows.net/public/img/7815839041305055" width="125">
